@@ -1,0 +1,5 @@
+/target
+.vscode
+.idea
+tasks.db
+dependency-reduced-pom.xml
